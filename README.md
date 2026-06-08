@@ -161,11 +161,11 @@ Namun, biaya iklan hanya menjelaskan sekitar 33% variasi jumlah pengunjung sehin
 
 ### Perbandingan Revenue Berdasarkan Jenis Promo
 
-(Tambahkan gambar visualisasi)
+![Perbandingan Revenue](Visualisasi/ttest_result.png)
 
 ### Hubungan Daily Ad Spend dan Website Traffic
 
-(Tambahkan gambar visualisasi)
+![Regresi Linear](Visualisasi/regression_plot.png)
 
 ---
 
